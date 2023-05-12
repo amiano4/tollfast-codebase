@@ -1,0 +1,9 @@
+[submodule "tollfast-mobile"]
+	path = tollfast-mobile
+	url = https://github.com/amiano4/tollfast-mobile.git
+[submodule "tollfast-website"]
+	path = tollfast-website
+	url = https://github.com/amiano4/tollfast-website.git
+[submodule "tollfast-api"]
+	path = tollfast-api
+	url = https://github.com/amiano4/tollfast-api.git
