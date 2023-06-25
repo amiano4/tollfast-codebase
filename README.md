@@ -1,12 +1,5 @@
-# tollfast-codebase
+# TollFast App Codebase Repository
 A repository for TollFast Mobile Application Project 
 
-
-### AWS database
-
-Hostname/IP:
-```tollfastdb.c9u1gvmju1mp.ap-southeast-1.rds.amazonaws.com```
-Username:
-```admin```
-Password:
-```admin123```
+### What is this all about?
+The Revolutionary App That Makes Everyone's Life Easier In Paying Tolls. Pay your tolls on the move!
